@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 
 class StorePicker extends React.Component {
   render() {
-    return <p> Somechineseguy  </p>
+    return <p> Rocket Ship away!  </p>
   }
 }
 
